@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Howin.
+- 👀 I’m currently working on Hyperledger Fabric Projects.
+- 🌱 I deploy the blockchain network on multi-cluster AWS EKS.
+- 💞️ I use technologies including Kubernetes, Istio Service Mesh, Fabric 2, KMS, S3 Object Storage, Argo CD, Argo Workflow, etc.
+- 📫 You can reach me at ho1ho@yahoo.com
