@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Howin.
-- 👀 I’m a Software Architect.
+- 👀 I’m a Software Architect. I have over 20 years experience in Java.
 - 🌱 I deployed the Hyperledger blockchain network on multi-cluster AWS EKS.
 - 💞️ I used technologies including Kubernetes, Istio Service Mesh, Fabric 2, KMS, S3 Object Storage, Argo CD, Argo Workflow, etc.
 - 📫 You can reach me at ho1ho@yahoo.com
